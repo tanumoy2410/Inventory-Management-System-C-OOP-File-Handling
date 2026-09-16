@@ -1,0 +1,12 @@
+# Build outputs
+inventory
+inventory.exe
+*.o
+*.obj
+
+# Runtime data
+products.txt
+
+# IDE files
+.vscode/
+.idea/
